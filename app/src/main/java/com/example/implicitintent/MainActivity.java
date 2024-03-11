@@ -1,4 +1,4 @@
-package com.example.implicitintent;
+package com.example.implicitog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.net.Uri;
