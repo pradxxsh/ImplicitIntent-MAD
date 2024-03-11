@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by:SUVVARI LAKSHMANA RAO
-Registeration Number :212221040168
+Developed by: Pradeesh kumar S
+Registeration Number :212221040124
 */
 ```
 
@@ -77,7 +77,7 @@ Registeration Number :212221040168
 #MAINACTIVITY.JAVA:
 
 ```
-package com.example.implicitintent;
+package com.example.implicitog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.net.Uri;
@@ -94,8 +94,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/lakshman1206/ImplicitIntent-MAD/assets/129931784/2b8794e0-4008-4438-a4a2-69acc5ad398a)
-![image](https://github.com/lakshman1206/ImplicitIntent-MAD/assets/129931784/07a9467e-780d-47ce-bf0a-ec18e266b298)
+![imp1 (1)](https://github.com/lakshman1206/ImplicitIntent-MAD/assets/131758539/94a0d224-a988-473b-aa2c-454e607c0083)
+![imp1 (2)](https://github.com/lakshman1206/ImplicitIntent-MAD/assets/131758539/6c522b04-23d1-48dc-89f1-8cbb56125742)
+
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
 
